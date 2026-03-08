@@ -28,15 +28,11 @@ export default function Home() {
           className="drop-shadow-xl"
         />
       </div>
-
-      {/* Bold Heading */}
       <h1 className="text-center text-5xl md:text-6xl font-black text-red-700 leading-tight drop-shadow-md tracking-wide">
         Сайн уу, Шинэбаяр💞
         <br />
         Чамд зориулж нэг бяцхан бэлэг бэлдсэн 🎁
       </h1>
-
-      {/* Bold Subtitle */}
       <p className="text-center text-xl md:text-2xl font-bold text-red-600 mt-4 drop-shadow-sm tracking-wide">
         хайрт Золжаргал-аас нь 💞
       </p>

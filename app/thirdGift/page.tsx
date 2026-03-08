@@ -59,7 +59,7 @@ export default function ReasonsPage() {
       <header className="relative z-10 max-w-2xl text-center backdrop-blur-sm bg-white/20 p-8 rounded-3xl border border-white/30 my-12 shadow-sm">
         <h1 className="text-2xl md:text-3xl font-bold text-red-900 leading-relaxed">
           Чи минь миний цэцэг билээ. Үргэлж цэцэг шиг сайхан үнэртэй, сайхан
-          харагддаг, сэтгэлийг гүн догдлуулдаг чамдаа хайртай шүү.
+          харагддаг, Миний сэтгэлийг гүн догдлуулдаг чамдаа хайртай шүү.
         </h1>
         <div className="mt-6 flex justify-center">
           <div className="relative w-32 h-32 md:w-40 md:h-40 mb-10">

@@ -81,8 +81,7 @@ export default function UguePage() {
         </h1>
 
         <p className="text-[#7f1d1d] text-lg md:text-2xl font-semibold tracking-wide">
-          Золжаргал-аас 💞 нь зориулж бэлдсэн энэ бүхэн миний хайрын өчүүхэн
-          хэсэг нь шүү ✨
+          Чамдаа зориулж бэлдсэн энэ бүхэн миний хайрын өчүүхэн хэсэг нь шүү ✨
         </p>
       </div>
 
