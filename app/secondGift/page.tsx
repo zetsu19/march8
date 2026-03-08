@@ -46,7 +46,7 @@ export default function MirrorPage() {
         💞💞💞💞💞💞💞💞
       </div>
       <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold text-gray-800 mb-12 text-center">
-        Чамтайгаа үргэлж хамтдаа болгоё
+        Чамтайгаа үргэлж хамтдаа
       </h1>
       <div className="flex flex-col md:flex-row items-center gap-8 md:gap-16 max-w-6xl w-full">
         <div className="relative flex justify-center md:justify-start">
